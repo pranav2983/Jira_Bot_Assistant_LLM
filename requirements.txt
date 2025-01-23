@@ -1,0 +1,7 @@
+streamlit 
+requests
+jira
+openai
+transformers
+langchain 
+torch
